@@ -1,0 +1,45 @@
+body{
+    padding: 100px;
+    background-image: linear-gradient(-20deg, #70dbdb 35%, #ffb3b3 65%);
+    text-align: center;
+    font-family: cursive;
+}
+.img{
+    background-image: C:\Users\ARIF\Pictures\galeri feby\febyyy.jpeg;
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea
+}
+.profil{
+    width: auto;
+    background-color: #eaeaea;
+    height: auto;
+    border-radius: 50px;
+    color: #993366;
+}
+table{
+    padding: 20px;
+    text-align: justify;
+    font-family: cursive;
+    margin-left: 30% ;
+}
+.header-contact{
+    float: right;
+    padding: 22px;
+    margin-right: 60px;
+}
+.header-contact > a{
+    margin-right: 13px;
+}
+
+.header-contact > a > i{
+    padding: 10px;
+    background-color: rgb(238, 108, 210);
+    text-decoration: none;
+    color: rgb(165, 23, 165);
+    border-radius: 100%;
+}
